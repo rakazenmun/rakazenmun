@@ -1,4 +1,4 @@
-# Hi there, I'm William! 👋
+# Hi there, I'm William!
 ### 💻 Computer Science Student @ TJHSST
 
 <p align="left">
@@ -24,9 +24,13 @@ I'm a freshman at **Thomas Jefferson High School for Science and Technology (TJH
 
 ### 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakazenmun" alt="GitHub Stats" />
-</p>
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rakazenmun&theme=dark" />
+  <!-- Default light mode -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakazenmun&" alt="GitHub Stats" />
+</picture>
+
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?lines=Welcome!;I'm a freshman+at+TJHSST; Always+building+something+new" alt="Typing SVG" />
