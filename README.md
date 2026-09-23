@@ -31,7 +31,9 @@ I'm a freshman at **Thomas Jefferson High School for Science and Technology (TJH
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakazenmun&" alt="GitHub Stats" />
 </picture>
 
-
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?lines=Welcome!;I'm a freshman+at+TJHSST; Always+building+something+new" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?lines=Welcome%21%3BI'm%20a%20freshman%20at%20TJHSST%3BAlways%20building%20something%20new"
+    alt="Typing SVG"
+  />
 </p>
