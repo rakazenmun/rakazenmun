@@ -33,7 +33,7 @@ I'm a freshman at **Thomas Jefferson High School for Science and Technology (TJH
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?lines=Welcome%21%3BI'm%20a%20freshman%20at%20TJHSST%3BAlways%20building%20something%20new"
+    src="https://readme-typing-svg.demolab.com?lines=Welcome%21%3BI'm%20a%20freshman%20at%20TJHSST%3BI%20love%20coding%20especially%20cplusplus"
     alt="Typing SVG"
   />
 </p>
